@@ -1,0 +1,38 @@
+.pagination li {
+	margin-right: -2px;
+}
+
+.footer-banner {
+	min-height: 180px;
+}
+
+.panel-heading {
+	padding: 8px 15px;
+}
+
+.dropdown-menu,.select2-drop {
+	min-width: 130px;
+}
+
+.checkbox,.radio {
+	padding-left: 0px;
+}
+
+.tile-image.big-illustration {
+	width: 100px;
+	height: 100px;
+	margin-top: 10px;
+}
+
+.tile p {
+	margin-bottom: 13px;
+	font-size: 15px;
+}
+
+.navbar {
+	margin-bottom: 10px;
+}
+
+.breadcrumb {
+	margin-bottom: 10px;
+}
